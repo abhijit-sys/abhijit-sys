@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Bootstrap and JavaScript
 - 💞️ I’m looking to collaborate with anyone
 - 📫 You can reach me by mailing to ad2153@srmist.edu.in
+- 🎮 Subscribe to my YouTube channel https://www.youtube.com/c/GeneralSchmalz
 
 <!---
 abhijit-sys/abhijit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
